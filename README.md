@@ -128,4 +128,4 @@ O projeto é hospedado como site estático no **GitHub Pages**, sem qualquer eta
 
 ## Licença
 
-_Defina aqui a licença do projeto (ex: MIT, GPL-3.0) antes da publicação._
+Este projeto está licenciado sob os termos da [Apache License 2.0](./LICENSE).
